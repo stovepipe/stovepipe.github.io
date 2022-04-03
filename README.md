@@ -2,9 +2,9 @@
 
 My name is Zach Mehlenbacher, and I am excited to share my portfolio with you!
 
-## [Final Project](url)
+## [Final Project-*In Progress*](url)
 
-## [Resume](url)
+## [Resume](https://github.com/stovepipe/stovepipe.github.io/blob/main/Zachary%20C.%20Mehlenbacher%20Resume%202022.pdf)
 
 ## [LinkedIn](https://www.linkedin.com/in/mehlenbacher/)
 
