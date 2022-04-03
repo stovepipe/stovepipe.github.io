@@ -6,9 +6,9 @@ My name is Zach Mehlenbacher, and I am excited to share my portfolio with you!
 
 ## [Resume](url)
 
-## [LinkedIn](url)
+## [LinkedIn](https://www.linkedin.com/in/mehlenbacher/)
 
-## Background
+## [Background](https://youtu.be/jZOywn1qArI?t=12)
 
 Where to begin...
 
@@ -18,24 +18,27 @@ def say_hello():
     
 say_hello()
 
+print('Nailed it!')
 ```
-## Practicum
+## [Let me tell you about my boat](https://youtu.be/d1RnYfFZK2k)
+## [Surely you can't be serious](https://youtu.be/B_XuPXGMpLA)
+
+Introductions and laughs aside, please feel free to peruse my featured project work below...
 
 ### Plotly
-[Link](url)
-![Image](src)
+[Belly Button Biodiversity](https://stovepipe.github.io/Belly_Button_Bacteria_Dashboard/)
+
 
 ### JavaScript
-[Link](url)
-![Image](src)
+[UFOs](https://stovepipe.github.io/UFOs/)
+
 
 ### Machine Learning
 [Link](url)
 ![Image](src)
 
 ### Tableau
-[Link](url)
-![Image](src)
+[Bikesharing Analysis](https://public.tableau.com/app/profile/zach.mehlenbacher/viz/BikesharingAnalysis_16468505514540/CitibikeAnalysis)
 
 ### Big Data
 [Link](url)
@@ -50,5 +53,7 @@ say_hello()
 ![Image](src)
 
 ### Web Scraping
-[Link](url)
-![Image](src)
+[Mission-to-Mars](https://stovepipe.github.io/Mission-to-Mars/)
+
+## Thank You
+I appreciate your time and consideration. Please don't hesitate to contact me via [email](mailto:zach.mehlenbacher@gmail.com) with any questions.
