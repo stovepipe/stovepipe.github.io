@@ -8,7 +8,9 @@ My name is Zach Mehlenbacher, and I am excited to share my portfolio with you!
 
 ## [LinkedIn](https://www.linkedin.com/in/mehlenbacher/)
 
-## [Background](https://youtu.be/jZOywn1qArI?t=12)
+#### [Is this guy serious?!](https://youtu.be/B_XuPXGMpLA)
+
+#### [Background](https://youtu.be/jZOywn1qArI?t=12)
 
 Where to begin...
 
@@ -20,9 +22,7 @@ say_hello()
 
 print('Nailed it!')
 ```
-## [Let me tell you about my boat](https://youtu.be/d1RnYfFZK2k)
-## [Is this guy serious?!](https://youtu.be/B_XuPXGMpLA)
-## Practicum
+# Practicum
 
 Introductions and laughs aside, I sincerely hope that you enjoy perusing my featured project work below:
 
