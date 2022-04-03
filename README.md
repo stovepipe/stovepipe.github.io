@@ -21,10 +21,10 @@ say_hello()
 print('Nailed it!')
 ```
 ## [Let me tell you about my boat](https://youtu.be/d1RnYfFZK2k)
-## [Surely you can't be serious](https://youtu.be/B_XuPXGMpLA)
+## [Is this guy serious?!](https://youtu.be/B_XuPXGMpLA)
 ## Practicum
 
-Introductions and laughs aside, please feel free to peruse my featured project work below...
+Introductions and laughs aside, I sincerely hope that you enjoy perusing my featured project work below:
 
 ### Plotly
 [Belly Button Biodiversity](https://stovepipe.github.io/Belly_Button_Bacteria_Dashboard/)
